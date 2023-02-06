@@ -143,8 +143,8 @@ li:hover {
   margin-left: 5vw;
   background-color: rgb(0, 0, 0);
   align-content: end;
-  border-left: 15px solid #f2bb05;
-  border-style: hidden hidden hidden dashed;
+  border-top: 5px dashed #f2bb05;
+  border-bottom: 5px dashed #f2bb05;
   grid-area: 1 / 1 / 2 / 2;
 }
 
